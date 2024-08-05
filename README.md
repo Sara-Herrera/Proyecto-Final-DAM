@@ -16,10 +16,10 @@ Esta aplicación de escritorio, desarrollada en Java con una base de datos SQL, 
 
 ### Contenido
 
-•	`Fruitware.exe`: Ejecutable de la aplicación.
-•	`Proyecto_DAM`: Proyecto de Java que contiene el código fuente.
+-	`Fruitware.exe`: Ejecutable de la aplicación.
+-	`Proyecto_DAM`: Proyecto de Java que contiene el código fuente.
 `ProyectoBD.sql`: Script para crear la base de datos necesaria en MySQL.
-•	`mysql-connector-java-8.0.20.jar`: El conector necesario para realizar la conexión entre Java y la base de datos SQL.
-•	Documentación Asociada:
-  • `Manual_tecnico.pdf`: Instrucciones detalladas sobre la arquitectura del sistema y configuración técnica.
-  • `Manual_de_usuario.pdf`: Guía de uso para los usuarios finales de la aplicación.
+-	`mysql-connector-java-8.0.20.jar`: El conector necesario para realizar la conexión entre Java y la base de datos SQL.
+-	Documentación Asociada:
+  - `Manual_tecnico.pdf`: Instrucciones detalladas sobre la arquitectura del sistema y configuración técnica.
+  - `Manual_de_usuario.pdf`: Guía de uso para los usuarios finales de la aplicación.
